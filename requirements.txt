@@ -1,0 +1,14 @@
+# Basic Python libraries
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# PyTorch
+torch
+torchvision
+torchaudio
+
+# Jupyter (if you want to run notebooks)
+jupyter
